@@ -1,0 +1,40 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/settingsRelationshipsCategory">
+        <SwitchPreferenceCompat
+            app:key="storyLines"
+            app:summary="@string/settingsStoryLinesDesc"
+            app:title="@string/settingsStoryLinesTitle" />
+        <SwitchPreferenceCompat
+            app:key="familyTreeLines"
+            app:summary="@string/settingsFamilyTreeLinesDesc"
+            app:title="@string/settingsFamilyTreeLinesTitle" />
+        <SwitchPreferenceCompat
+            app:key="spouseLines"
+            app:summary="@string/settingsSpouseLinesDesc"
+            app:title="@string/settingsSpouseLinesTitle" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Events">
+        <SwitchPreferenceCompat
+            app:key="fathersEvents"
+            app:summary="@string/settingsFathersEventsDesc"
+            app:title="@string/settingsFathersEventsTitle" />
+        <SwitchPreferenceCompat
+            app:key="mothersEvents"
+            app:summary="@string/settingsMothersEventsDesc"
+            app:title="@string/settingsMothersEventsTitle" />
+        <SwitchPreferenceCompat
+            app:key="maleEvents"
+            app:summary="@string/settingsMaleEventsDesc"
+            app:title="@string/settingsMaleEventsTitle" />
+        <SwitchPreferenceCompat
+            app:key="femaleEvents"
+            app:summary="@string/settingsFemaleEventsDesc"
+            app:title="@string/settingsFemaleEventsTitle" />
+    </PreferenceCategory>
+
+    <Preference
+        app:key="logoutPref"
+        app:title="@string/logout" />
+</PreferenceScreen>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Family Map Client</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBqDA3JRhbx9EKLZe36cDz4InKYVk4ZiJs</string>
+
+    <!-- Main Activity -->
+    <string name="mainActivityLabel">Family Map</string>
+
+    <!-- Login/Register Titles -->
+    <string name="userName">User Name</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="serverHost">Server Host</string>
+    <string name="serverPort">Server Port</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="genderMale">Male</string>
+    <string name="genderFemale">Female</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="register">REGISTER</string>
+
+    <!-- Map Fragment -->
+    <string name="mapFragmentMessage">Tap an event for more information</string>
+
+    <!-- Settings: Relationships -->
+    <string name="settingsRelationshipsCategory">Relationships</string>
+    <string name="settingsStoryLinesTitle">Life Story Lines</string>
+    <string name="settingsStoryLinesDesc">Show life story lines</string>
+    <string name="settingsFamilyTreeLinesTitle">Family Tree Lines</string>
+    <string name="settingsFamilyTreeLinesDesc">Show family tree lines</string>
+    <string name="settingsSpouseLinesTitle">Spouse Lines</string>
+    <string name="settingsSpouseLinesDesc">Show spouse lines</string>
+
+    <!-- Settings: Events -->
+    <string name="settingsEventsCategory">Events</string>
+    <string name="settingsFathersEventsTitle">Father\'s Side</string>
+    <string name="settingsFathersEventsDesc">Show events on your father\'s side of the family</string>
+    <string name="settingsMothersEventsTitle">Mother\'s Side</string>
+    <string name="settingsMothersEventsDesc">Show events on your mother\'s side of the family</string>
+    <string name="settingsMaleEventsTitle">Male Events</string>
+    <string name="settingsMaleEventsDesc">Show events associated with males</string>
+    <string name="settingsFemaleEventsTitle">Female Events</string>
+    <string name="settingsFemaleEventsDesc">Show events associated with females</string>
+
+    <!-- Settings: Other -->
+    <string name="settingsActivityLabel">Family Map: Settings</string>
+    <string name="logout">Log out</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <!-- Search Activity -->
+    <string name="searchActivityLabel">Family Map: Search</string>
+
+    <!-- Event Activity -->
+    <string name="eventActivityLabel">Family Map: Event Details</string>
+
+    <!-- Person Activity -->
+    <string name="personActivityLabel">Family Map: Person Details</string>
+    <string name="lifeEventsTitle">Life Events</string>
+    <string name="familyTitle">Family</string>
+</resources>

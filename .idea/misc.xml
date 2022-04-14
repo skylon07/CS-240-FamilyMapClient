@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/Examples/MapFragmentExample/app/src/main/res/layout/activity_main.xml" value="0.12760416666666666" />
+        <entry key="app/Examples/MapFragmentExample/app/src/main/res/layout/fragment_map.xml" value="0.12760416666666666" />
+        <entry key="app/Examples/RecyclerViewExample_MultipleViewTypes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/Examples/RecyclerViewExample_MultipleViewTypes/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
+        <entry key="app/Examples/RecyclerViewExample_MultipleViewTypes/app/src/main/res/layout/hiking_trail_item.xml" value="0.3867294311523439" />
+        <entry key="app/Examples/RecyclerViewExample_MultipleViewTypes/app/src/main/res/layout/ski_resort_item.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.185" />
+        <entry key="app/src/main/res/layout/activity_event.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20371761598448823" />
+        <entry key="app/src/main/res/layout/activity_person.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.21213836669921873" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.15353260869565216" />
+        <entry key="app/src/main/res/layout/content_search.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.21883544921875003" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.15353260869565216" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/myfragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/person_list_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/search_item.xml" value="0.3596597812879708" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.45437469482421877" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.27373809814453126" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
